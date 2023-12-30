@@ -1,0 +1,4 @@
+m.youtube.com##ytm-rich-item-renderer:has(a[aria-label="Recommended videos"])
+m.youtube.com##ytm-rich-grid-media:has(> ytm-badge-supported-renderer)
+m.youtube.com##ytm-rich-grid-row[title="Recommended"]
+m.youtube.com##ytm-browse[page-subtype="home"]:has(.ytm-item-section-renderer)
